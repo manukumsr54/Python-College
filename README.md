@@ -4,9 +4,9 @@ A structured collection of Python programs, notes, and practice exercises create
 
 This repository serves as a personal learning resource and documents my progress from Python basics to more advanced concepts.
 
----
+---------------------
 
-## 📚 Topics Covered
+# 📚 Topics Covered
 
 - ✅ Introduction to Python
 - ✅ Variables & Data Types
