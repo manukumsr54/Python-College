@@ -6,7 +6,7 @@ This repository serves as a personal learning resource and documents my progress
 
 ---------------------
 
-# 📚 Topics Covered
+# 📚 Topics Covered->
 
 - ✅ Introduction to Python
 - ✅ Variables & Data Types
