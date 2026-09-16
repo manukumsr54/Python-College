@@ -1,6 +1,6 @@
 # 🐍 Python College Lectures
 
-A structured collection of Python programs, notes, and practice exercises created while learning Python in college.=
+A structured collection of Python programs, notes, and practice exercises created while learning Python in college.
 
 This repository serves as a personal learning resource and documents my progress from Python basics to more advanced concepts.
 
