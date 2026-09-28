@@ -1,4 +1,4 @@
-# 🐍 Python College Lectures
+# 🐍 Python College Lectures-
 
 A structured collection of Python programs, notes, and practice exercises created while learning Python in college.
 
